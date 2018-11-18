@@ -4,6 +4,7 @@ loop do
   counter += 1
   if counter < number_of_times
     puts "Welcome to Flatiron School's Web Development Course!"
+    
   end
 end
 phrase = "Welcome to Flatiron School's Web Development Course!"
